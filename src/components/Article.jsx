@@ -1,7 +1,7 @@
 
 
 
-export default function Article(title,date,preview){
+export default function Article({title,date,preview}){
     return(
         
             <article>
